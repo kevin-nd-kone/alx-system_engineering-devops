@@ -1,2 +1,0 @@
-#!/bin/bash
-ls /bin::::/home:/usr:::::/home/me 
